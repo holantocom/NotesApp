@@ -7,14 +7,14 @@ Android Version: Android 10 (API 29)
 ## Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/holantocom/NotesApp/master/screenshots/2.png" style="width: 15%">
-  <img src="https://raw.githubusercontent.com/holantocom/NotesApp/master/screenshots/1.png" style="width: 15%">
-  <img src="https://raw.githubusercontent.com/holantocom/NotesApp/master/screenshots/3.png" style="width: 15%">
-  <img src="https://raw.githubusercontent.com/holantocom/NotesApp/master/screenshots/7.png" style="width: 15%">
+  <img src="https://raw.githubusercontent.com/holantocom/NotesApp/master/screenshots/2.png" style="width: 10%">
+  <img src="https://raw.githubusercontent.com/holantocom/NotesApp/master/screenshots/1.png" style="width: 10%">
+  <img src="https://raw.githubusercontent.com/holantocom/NotesApp/master/screenshots/3.png" style="width: 10%">
+  <img src="https://raw.githubusercontent.com/holantocom/NotesApp/master/screenshots/7.png" style="width: 10%">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/holantocom/NotesApp/master/screenshots/6.png" style="width: 15%">
-  <img src="https://raw.githubusercontent.com/holantocom/NotesApp/master/screenshots/5.png" style="width: 15%">
-  <img src="https://raw.githubusercontent.com/holantocom/NotesApp/master/screenshots/4.png" style="width: 15%">
+  <img src="https://raw.githubusercontent.com/holantocom/NotesApp/master/screenshots/6.png" style="width: 10%">
+  <img src="https://raw.githubusercontent.com/holantocom/NotesApp/master/screenshots/5.png" style="width: 10%">
+  <img src="https://raw.githubusercontent.com/holantocom/NotesApp/master/screenshots/4.png" style="width: 10%">
 </p>
